@@ -40,6 +40,10 @@ Cuối cùng sumbit thử rồi sửa lại cookie, là có được flag.
 
 ![image](https://github.com/Llam-a/TTV-KCSC/assets/115911041/2373cb09-1d8e-474c-a0af-fb236d6f95ae)
 
+Hoặc nếu đơn giản hơn bạn có thể đổi giá trị của cookie sau khi decode như sau.Đổi ở chỗ isChampion từ `b:0` sang `b:1` nghĩa là thành true. Sau đó chỉ việc encode lại chuỗi serialize thành base64 eidt lại cookie là xong.
+
+![image](https://github.com/Llam-a/TTV-KCSC/assets/115911041/7906d0f0-1f0e-4ffc-9dc4-b2c678634a61)
+
 
 
 
